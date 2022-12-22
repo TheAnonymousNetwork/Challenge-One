@@ -1,0 +1,80 @@
+body{
+    /* background-image: url("lights.jpg"); */
+    /* background-image: url("lights2.jpg"); */
+    /* background-image: url("lights3.jpg"); */
+    /* background-image: url("lights4.jpg"); */
+    /* background-image: url("lights5.jpg"); */
+    /* background-image: url("lights6.jpg"); */
+    /* background-image: url("lights7.jpg"); */
+    /* background-image: url("lights8.jpg"); */
+    /* background-image: url("lights9.jpg"); */
+    /* background-image: url("lights10.jpg"); */
+
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.menu{
+    padding-left: 15%;
+    margin-top: 30px;
+    word-spacing: 15px;
+}
+a{
+    text-decoration: none;
+    color: black;
+    
+}
+.menu_button1{
+    border: 1px solid violet;
+    border-radius: 40px;
+    /* background-color: DarkSlateBlue; */
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    font-size: 50px;
+    color: indigo;
+    box-shadow: 2px 4px 1px violet;
+}
+.menu_button{
+    border: 1px solid Violet;
+    border-radius: 40px;
+    background-color: violet;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 20px;
+}
+.colored_text{
+    padding-left: 20%;
+    padding-top: 20px;
+    color: indigo;
+    font-size: 25px;
+}
+.self_intro{
+    padding-left: 20%;
+    margin-top: 0;
+    padding-top: 0;
+    color: darkmagenta;
+    font-size: 70px;
+
+}
+.article{
+    padding-left: 20%;
+    font-size: 18px;
+    color: black;
+}
+.button{
+    padding-left: 15%;
+}
+.button_button{
+    border: 1px solid indigo;
+    border-radius: 30px;
+    background-color: indigo;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 25px;
+    color: white;
+}
